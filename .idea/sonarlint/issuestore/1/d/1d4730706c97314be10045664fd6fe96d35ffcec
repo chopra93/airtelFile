@@ -1,0 +1,9 @@
+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(öº»»şÿÿÿÿ8²âÑ¬§,
+Osquid:S2095".Close this "FileReader" in a "finally" clause.(ÚğùËüÿÿÿÿ8Ò½­§,
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8Ò½­§,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(âà’=8²¼®¯§,
+Gsquid:S1168"+Return an empty collection instead of null.(¥¹ï8ó¿‰¬§,
+Jsquid:S2095".Close this "FileReader" in a "finally" clause.(Ë¬Ã°8Ò½­§,
+Tsquid:S1854"8Remove this useless assignment to local variable "line".(íùÍ¸8Ò½­§,
